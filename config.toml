@@ -5,7 +5,7 @@ theme = "creative-portfolio"
 publishDir = "docs"
 [params]
   style = "red"
-  description = "Describe your website"
+  description = "Architecture portfolio Ayca Sert"
   copyright = "&copy;2017"
   sidebarAbout = [
     "Fourth year architecture student in Istanbul, Turkey studying at Bahçeşehir University.",
