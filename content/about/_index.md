@@ -11,4 +11,4 @@ I am the best!
 
 * Bachelor of Architecture, Bahçeşehir University
 
-[1]: /img/about.jpg
+[1]: /portfolio/img/about.jpg
