@@ -2,6 +2,7 @@ baseURL = "https://aycasert.github.io/"
 languageCode = "en-us"
 title = "Ayça Sert — architect"
 theme = "creative-portfolio"
+publishDir = "docs"
 [params]
   style = "red"
   description = "Describe your website"
