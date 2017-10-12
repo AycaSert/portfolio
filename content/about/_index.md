@@ -7,7 +7,7 @@ I am the best!
 
 ![This is me][1]
 
-#### Education
+#### Education:
 
 * Bachelor of Architecture, Bahçeşehir University
 
