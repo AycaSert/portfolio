@@ -1,0 +1,17 @@
+.copyright {
+    display: none;
+}
+
+img {
+    max-width: 500px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+@media only screen and (max-width: 850px) {
+    img {
+        max-width: 300px;
+    }
+}
