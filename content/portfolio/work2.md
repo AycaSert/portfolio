@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-image = "Folder/3001model.jpg"
+image = "uploads/3001model.jpg"
 showonlyimage = false
 title = "Collective Hub"
 weight = 1
