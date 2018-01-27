@@ -1,31 +1,9 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
-draft = false
 image = "img/portfolio/business-card-26.jpg"
 showonlyimage = false
+title = "Collective Hub"
 weight = 1
+
 +++
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-<!--more-->
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Nuruosmaniye street is located in the historic peninsula of Istanbul. The street is within minutes of walk distances from the Grand Bazaar and the Nuruosmaniye Mosque. The area is surrounded with jewelry shops, antique stores and carpet stores and is a prime spot for both tourists and locals to shop. The aim in this project is to design a work place combined with public space, facing the Nuruosmaniye street. The design will serve market spaces for the local artists that produce work in such fields as; carpet viewing, jewelry design, ceramics and calligraphy to be rented for short term periods. The project seeks to create market areas for the commodities also with an exhibition area for the unique pieces to be on display and an event area to be used for workshops, conferences and greetings. The challenge is to maximize the public interaction with the building and sustain the public-private separation between the administrative unit of the building.
