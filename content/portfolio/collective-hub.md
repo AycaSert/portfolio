@@ -1,6 +1,6 @@
 +++
 date = "2018-01-27T15:15:44+00:00"
-image = "uploads/2018/01/27/3001%20Model.jpg"
+image = "uploads/2018/01/27/3001Model.jpg"
 showonlyimage = true
 title = "Collective Hub"
 type = ""
