@@ -4,5 +4,7 @@ draft = true
 image = ""
 showonlyimage = false
 title = "Collective Hub"
+type = ""
+weight = ""
 
 +++
