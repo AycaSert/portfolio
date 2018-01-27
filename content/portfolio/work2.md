@@ -8,9 +8,9 @@ weight = 1
 +++
 Collective Hub 
 
-Location: Historic Peninsula, Istanbul
+**Location:** Historic Peninsula, Istanbul
 
-Year: Third Year Fall Semester 2016
+**Year:** Third Year Fall Semester 2016
 
 <!--more-->
 
