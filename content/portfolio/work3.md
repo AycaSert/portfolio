@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:44:32+05:30"
-image = "img/portfolio/gravity-paper.jpg"
+image = "uploads/IMG_1376%20copy.jpg"
 showonlyimage = false
 title = "K12 School"
 weight = 2
