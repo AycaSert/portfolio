@@ -6,8 +6,6 @@ title = "K12 School"
 weight = 2
 
 +++
-K12 School
-
 **Location:** Omerli, Istanbul
 
 **Year:** Third Year Spring Semester 2017
