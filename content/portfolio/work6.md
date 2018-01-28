@@ -6,12 +6,12 @@ title = "Tangled Vista Hotel"
 weight = 6
 
 +++
-Location: Levent, Istanbul
+**Location:** Levent, Istanbul
 
-Year: Fourth Year Fall Semester 2017
+**Year:** Fourth Year Fall Semester 2017
 
- <!--more-->
+<!--more-->
 
 ![](/portfolio/uploads/otel.jpg)
 
-Levent is the growing financial district of Istanbul. This economic development led the area to be surrounded with bank headquarter buildings, shopping malls and high rise residential buildings. This new side of Levent is causing contrast between the early constructed part of the neighborhood which consists of 3 story houses. The challenge is to design a hotel building in such a complex area which would serve for business purposes and for tourist. It is also aimed to contribute to the social life of the district and introduce a new open air public center to the area.   
+Levent is the growing financial district of Istanbul. This economic development led the area to be surrounded with bank headquarter buildings, shopping malls and high rise residential buildings. This new side of Levent is causing contrast between the early constructed part of the neighborhood which consists of 3 story houses. The challenge is to design a hotel building in such a complex area which would serve for business purposes and for tourist. It is also aimed to contribute to the social life of the district and introduce a new open air public center to the area.
