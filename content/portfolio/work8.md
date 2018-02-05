@@ -1,31 +1,17 @@
 +++
-showonlyimage = false
-draft = false
-image = "img/portfolio/ipad-air-2.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
+image = "uploads/Phase2.jpg"
+showonlyimage = false
+title = "What If?"
 weight = 8
-+++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
++++
+**Location:** Manhattan, New York
+
+**Year:** Second Year Spring Semester 2017
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![](/portfolio/uploads/Phase2.jpg)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+In this project, the aim is to re-design the existing layout of the Manhattan island as if the grid plan has never happened. The beginning point of the project is the year 1811, the date when the map of Manhattan had meticulously drawn by John Randel Jr. On the first phase of the project as a team, we begin the project by studying the topography and the existing geological features of the island back in 1811. We divided the team into groups of; civil engineers, geologists, hydrologists, preservationists, urban planners and developers to work on a manifesto together on how the new city should function.  On the second phase of the project, we divided the island into 11 plots for each team member to work individually on their areas more in detail respecting the manifesto we set as a team. In this part of the project we were also required to select one landmark that is located on our plot to show the relation and to compare the scale between our plan for Manhattan and the existing city. On the third and last phase of the project, we focused on an individual block in the plot we designed and had a deeper look on how our plan is working in the smallest unit of the city.
