@@ -8,7 +8,7 @@ weight = 8
 +++
 **Location:** Manhattan, New York
 
-**Year:** Second Year Spring Semester 2017
+**Year:** Second Year Spring Semester 2016
 
 <!--more-->
 
