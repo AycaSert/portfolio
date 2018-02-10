@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:44:32+05:30"
-image = "uploads/IMG_1376%20copy.jpg"
+image = "uploads/model2.jpg"
 showonlyimage = false
 title = "K12 School"
 weight = 2
