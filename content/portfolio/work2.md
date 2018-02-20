@@ -3,7 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 image = "uploads/3001Model.jpg"
 showonlyimage = false
 title = "Collective Hub"
-weight = 1
+weight = "03"
 
 +++
 **Location:** Historic Peninsula, Istanbul
