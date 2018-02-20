@@ -3,7 +3,7 @@ date = "2016-11-05T19:44:32+05:30"
 image = "uploads/model2.jpg"
 showonlyimage = false
 title = "K12 School"
-weight = 2
+weight = "02"
 
 +++
 **Location:** Omerli, Istanbul

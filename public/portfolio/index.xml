@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
     
 	<atom:link href="https://aycasert.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tangled Vista Hotel</title>
+      <link>https://aycasert.github.io/portfolio/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://aycasert.github.io/portfolio/portfolio/work6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Levent, Istanbul&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; Fourth Year Fall Semester 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Collective Hub</title>
@@ -34,19 +47,6 @@
       <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Omerli, Istanbul&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; Third Year Spring Semester 2017&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tangled Vista Hotel</title>
-      <link>https://aycasert.github.io/portfolio/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://aycasert.github.io/portfolio/portfolio/work6/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Levent, Istanbul&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; Fourth Year Fall Semester 2017&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
