@@ -1,0 +1,23 @@
+baseURL = "https://aycasert.github.io/portfolio/"
+languageCode = "en-us"
+publishDir = "docs"
+theme = "creative-portfolio"
+title = "Ayça Sert — architect"
+[params]
+copyright = "&copy;2018"
+description = "Architecture portfolio Ayca Sert"
+titlemobile = "Ayça Sert"
+sidebarabout = ["Fourth year architecture student in Istanbul, Turkey studying at Bahçeşehir University.", "I have studied in Istanbul and New York."]
+style = "red"
+[params.social]
+github = "https://github.com/aycasert"
+instagram = "https://instagram.com/aycaasertt"
+[[params.navlinks]]
+name = "Home"
+url = ""
+[[params.navlinks]]
+name = "About"
+url = "about/"
+[[params.navlinks]]
+name = "Get in touch"
+url = "contact/"
