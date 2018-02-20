@@ -8,4 +8,4 @@ weight = 9
 +++
 **Location:** Besiktas, Istanbul
 
-**Year:** First Year Spring Semester 2015
+**Year:** First Year Spring Semester 2015 
