@@ -6,7 +6,8 @@ title = "Ayça Sert — architect"
 [params]
 copyright = "&copy;2018"
 description = "Architecture portfolio Ayca Sert"
-sidebarabout = ["Fourth year architecture student in Istanbul, Turkey studying at Bahçeşehir University.", "I have studied in 🕌 Istanbul and 🗽 New York."]
+titlemobile = "Ayça Sert"
+sidebarabout = ["Fourth year architecture student in Istanbul, Turkey studying at Bahçeşehir University.", "I have studied in Istanbul and New York."]
 style = "red"
 [params.social]
 github = "https://github.com/aycasert"
