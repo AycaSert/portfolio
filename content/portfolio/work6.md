@@ -3,7 +3,7 @@ date = "2016-11-05T19:56:17+05:30"
 image = "uploads/otel.jpg"
 showonlyimage = false
 title = "Tangled Vista Hotel"
-weight = 6
+weight = "01"
 
 +++
 **Location:** Levent, Istanbul
